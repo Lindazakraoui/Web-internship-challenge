@@ -1,0 +1,25 @@
+{
+    "timezoneData": [
+    {
+    "country": "ml",
+    "value": 0
+    },
+    {
+    "country": "bf",
+    "value": 0
+    },
+    {
+    "country": "ci",
+    "value": 0
+    },
+    {"country": "cm",
+        "value": 60
+        },
+        {
+        "country": "gq",
+        "value": 60
+        },
+        {
+        "country": "ls",
+        "value": 120
+        }
